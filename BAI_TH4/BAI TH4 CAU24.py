@@ -1,0 +1,8 @@
+print("Sinh vien : Trinh Quang Huy")
+print("MSSV : 235752021610016")
+print("#################")
+input_str = input("Nhap cau: ")
+upper_case = sum(c.isupper() for c in input_str)
+lower_case = sum(c.islower() for c in input_str)
+print(f"Chu hoa: {upper_case}")
+print(f"Chu thuong: {lower_case}")

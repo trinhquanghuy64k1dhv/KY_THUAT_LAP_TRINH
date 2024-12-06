@@ -1,0 +1,8 @@
+print("Sinh vien : Trinh Quang Huy")
+print("MSSV : 235752021610016")
+print("#################")
+input_str = input("Nhap cau: ")
+letters = sum(c.isalpha() for c in input_str)
+digits = sum(c.isdigit() for c in input_str)
+print(f"So chu cai la: {letters}")
+print(f"So chu so la: {digits}")

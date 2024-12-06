@@ -1,0 +1,5 @@
+file_path = 'test.txt'
+
+with open(file_path, 'w') as f:
+    print("Hay tao mot thu muc")
+    print("Thu muc co ten la ")

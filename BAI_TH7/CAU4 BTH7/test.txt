@@ -1,0 +1,3 @@
+Hello, World!
+bai 4 thuc hanh 7.
+lap trinh tren Python!

@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="B&#192;I TH 1 1.4.2 d"/>
+        <attribute name="authors" value="DELL"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2024-09-28 08:58:08 CH"/>
+        <attribute name="created" value="REVMTDtERVNLVE9QLUNKS1VNQk07MjAyNC0wOS0yODswODo0MTozNCBDSDsyNjY2"/>
+        <attribute name="edited" value="REVMTDtERVNLVE9QLUNKS1VNQk07MjAyNC0wOS0yODswODo1ODowOCBDSDsxOzI3ODM="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <output expression="&quot;Tr&#7883;nh Quang Huy&quot;" newline="True"/>
+            <output expression="&quot;MSSV 235752021610016&quot;" newline="True"/>
+            <declare name="canh, chieucao, dientich" type="Real" array="False" size=""/>
+            <output expression="&quot;Nhap vao canh cua tam giac&quot;" newline="True"/>
+            <input variable="canh"/>
+            <output expression="&quot;Nhap chieu cao cua tam giac&quot;" newline="True"/>
+            <input variable="chieucao"/>
+            <assign variable="dientich" expression="(canh*chieucao)/2"/>
+        </body>
+    </function>
+</flowgorithm>

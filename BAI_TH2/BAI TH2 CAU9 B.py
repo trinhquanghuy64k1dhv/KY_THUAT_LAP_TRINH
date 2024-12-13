@@ -4,5 +4,5 @@ print("#################")
 str=input("Enter a String")
 dict={}
 for i in str:
-    dict [i] = str.count(i)
+    dict [i] = str.count(i) # Dem so lan xuat hien i
 print (dict)
